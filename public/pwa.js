@@ -3,7 +3,7 @@ const appCore = [
 	"/",
 	"styles.css",
 	"getFox.js",
-	"manifest.json",
+	"kz.webmanifest",
 	"favicon.ico",
 	"favicon-full.png",
 	"favicon-upsc.png"
