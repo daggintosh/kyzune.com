@@ -15,7 +15,7 @@
     }
   ],
   "theme_color": "indigo",
-  "background_color": "black",
+  "background_color": "#0f1014",
   "display": "minimal-ui",
   "scope": "/",
   "start_url": "/",
