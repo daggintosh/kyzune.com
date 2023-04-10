@@ -1,0 +1,23 @@
+{
+  "name": "Kyzune",
+  "short_name": "Kyzune",
+  "description": "Landing page for kyzune.com",
+  "icons": [
+    {
+      "src": "favicon-full.png",
+      "sizes": "256x256",
+      "purpose": "any"
+    },
+    {
+      "src": "favicon-upsc.png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "theme_color": "indigo",
+  "background_color": "black",
+  "display": "minimal-ui",
+  "scope": "/",
+  "start_url": "/",
+  "id": "/"
+}
