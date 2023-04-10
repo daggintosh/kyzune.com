@@ -4,12 +4,12 @@
   "description": "Landing page for kyzune.com",
   "icons": [
     {
-      "src": "favicon-full.png",
+      "src": "assets/logo-full.png",
       "sizes": "256x256",
       "purpose": "any"
     },
     {
-      "src": "favicon-upsc.png",
+      "src": "assets/logo-upscale.png",
       "sizes": "512x512",
       "purpose": "maskable"
     }

@@ -3,10 +3,11 @@ const appCore = [
 	"/",
 	"styles.css",
 	"getFox.js",
+	"abilities.js",
 	"kz.webmanifest",
 	"favicon.ico",
-	"favicon-full.png",
-	"favicon-upsc.png"
+	"assets/logo-full.png",
+	"assets/logo-upscale.png"
 ]
 
 self.addEventListener("install", e => {
