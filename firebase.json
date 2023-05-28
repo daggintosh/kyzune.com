@@ -6,6 +6,13 @@
       "**/.*",
       "**/node_modules/**"
     ],
+    "redirects": [
+      {
+        "source": "/free-nitro-real-100-working-2023-no-survey",
+        "destination": "https://youtu.be/dQw4w9WgXcQ",
+        "type": 301
+      }
+    ],
     "rewrites": [
       {
         "source": "**",
